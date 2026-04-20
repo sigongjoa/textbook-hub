@@ -36,9 +36,10 @@
 - [`docs/solutions.md`](docs/solutions.md) — 해결책 + MVP 피벗
 - [`docs/moat.md`](docs/moat.md) — moat 분석 + 포지셔닝
 
-### 목업
-- [`mockup/index.html`](mockup/index.html) — Toss/Karrot 톤 웹 목업 (v3)
-- Live: https://sigongjoa.github.io/textbook-hub/
+### 목업 & 피치
+- [`mockup/index.html`](mockup/index.html) — Toss/Karrot 톤 웹 목업
+- [`deck/index.html`](deck/index.html) — Pitch Deck (17 slides)
+- Live: https://sigongjoa.github.io/textbook-hub/ · Deck: https://sigongjoa.github.io/textbook-hub/deck/
 
 ## MVP (6주 × 3 스프린트)
 
